@@ -1,0 +1,2 @@
+1 First the putl the caffe(key->value) parameters into the npy
+2 Load the pytorch model network and npy to the pytorch model (.pth) 
